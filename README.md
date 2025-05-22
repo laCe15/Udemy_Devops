@@ -1,10 +1,17 @@
 # Prerequisites
+<<<<<<< HEAD
 ######
 - JDK 21
 - Maven 3.9
+=======
+#
+- JDK 17 
+- Maven 3.9 
+>>>>>>> da78aa5267cee8b21b6329d2f267e97ed415d325
 - MySQL 8
 
 # Technologies 
+- JAKARTA
 - Spring MVC
 - Spring Security
 - Spring Data JPA
